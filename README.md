@@ -1,4 +1,4 @@
-# ADPS
+# ADPTS
 
 A modern, polished web application for dataset analysis, audit workflows, and administrative operations. Built with React and Vite, ADPTS provides an interactive interface for exploring datasets, reviewing audit information, and managing key platform activities from a single dashboard experience.
 
