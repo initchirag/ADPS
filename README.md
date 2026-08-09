@@ -14,7 +14,6 @@ A modern, polished web application for dataset analysis, audit workflows, and ad
 ## 🧰 Tech Stack
 
 - React
-- Vite
 - TypeScript-friendly JavaScript setup
 - Tailwind-style UI components
 - React Router
